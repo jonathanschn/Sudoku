@@ -2,7 +2,7 @@
 Sudoku generator and visualized solver
 
 # Generate a Sudoku
-A valid Sudoku has a SINGLE solution. Therefore, creating new Soduku boards is a fun challenge.
+A valid Sudoku has a SINGLE solution. Therefore, creating new Soduku puzzles is a fun challenge.
 Running the GUI will automatically generate a Sudoku.
 Click the 'GENERATE NEW SUDOKU" button to create a new game.
 
